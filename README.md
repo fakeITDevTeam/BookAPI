@@ -1,2 +1,2 @@
 # BookAPI
-CRUD function using ASP.NET Core 7 Web API, Entity Framework 7, and MSSQL Server
+CRUD API using ASP.NET Core 7 Web API, Entity Framework 7, and MS SQL Server
